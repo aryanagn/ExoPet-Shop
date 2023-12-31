@@ -1,4 +1,4 @@
-# ExoPets
+# ExoPet Shop - An E-commerce website
 - Mission Statement
 
 “Providing a selection of rare wildlife species on demand!” Our goal is to be the leading market in delivering high quality and unique foreign species following legal and safe measures for our customers. We yearn to flourish our customer satisfaction by providing excellent customer service throughout every purchase.
